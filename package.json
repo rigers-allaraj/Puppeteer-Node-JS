@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rigers-allaraj/Puppeteer-Node-JS#readme",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "puppeteer": "^13.5.1"
   }
 }
